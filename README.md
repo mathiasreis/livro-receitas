@@ -3,3 +3,4 @@
 As minhas receitas são:
 
 - Strogonoff de Frango
+- Pavê
